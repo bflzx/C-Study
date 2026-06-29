@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(56,22): error C3878: 语法错误:“simple-type-specifier”后出现意外标记“<”
+  (编译源文件“main.cpp”)
+      C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(56,22):
+      缺少以下项之一: '(' '{' ?
+      C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(56,22):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(21,7):
+          在编译类模板“HashTable”时
+  
+C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(56,22): error C3878: 语法错误:“statement”后出现意外标记“<”
+  (编译源文件“main.cpp”)
+  
+C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(56,24): error C2760: 语法错误: 此处出现意外的“,”；应为“;”
+  (编译源文件“main.cpp”)
+  
+C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(56,26): error C2760: 语法错误: 此处出现意外的“,”；应为“;”
+  (编译源文件“main.cpp”)
+  
+C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(56,33): error C3878: 语法错误:“declaration”后出现意外标记“>>”
+  (编译源文件“main.cpp”)
+      C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(56,28):
+      前面的声明后面缺少 “，”或 “;”？
+  
+C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(56,36): error C2065: “newht”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(62,6): error C2065: “newht”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\Redmi\Desktop\C++学习\Hash\Hash\HashTable.h(66,17): error C2065: “newht”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  

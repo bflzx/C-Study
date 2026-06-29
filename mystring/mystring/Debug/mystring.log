@@ -1,0 +1,14 @@
+﻿  test.cpp
+C:\Users\Redmi\Desktop\C++学习\mystring\mystring\string.h(174,15): warning C4305: “=”: 从“int”到“char”截断
+  (编译源文件“test.cpp”)
+  
+C:\Users\Redmi\Desktop\C++学习\mystring\mystring\string.h(174,15): warning C4309: “=”: 截断常量值
+  (编译源文件“test.cpp”)
+  
+C:\Users\Redmi\Desktop\C++学习\mystring\mystring\string.h(200,15): warning C4018: “>=”: 有符号/无符号不匹配
+  (编译源文件“test.cpp”)
+  
+C:\Users\Redmi\Desktop\C++学习\mystring\mystring\string.h(218,15): warning C4018: “>=”: 有符号/无符号不匹配
+  (编译源文件“test.cpp”)
+  
+  mystring.vcxproj -> C:\Users\Redmi\Desktop\C++学习\mystring\Debug\mystring.exe

@@ -1,0 +1,37 @@
+﻿  test.cpp
+C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(6,2): error C2976: “BSTree'”: 模板 参数太少
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\BSTree.h(22,7):
+      参见“BSTree”的声明
+  
+C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(6,14): error C2133: “t”: 未知的大小
+C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(6,14): error C2512: “BSTree”: 没有合适的默认构造函数可用
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\BSTree.h(22,7):
+      参见“BSTree”的声明
+  
+C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(10,5): error C2660: “BSTree<K,V>::Insert”: 函数不接受 1 个参数
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\BSTree.h(31,7):
+      参见“BSTree<K,V>::Insert”的声明
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(10,5):
+      尝试匹配参数列表“(int)”时
+  
+C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(12,4): error C2662: “void BSTree<K,V>::Inorder(void)”: 不能将“this”指针从“BSTree”转换为“BSTree<K,V> &”
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(12,2):
+      原因如下: 无法从“BSTree”转换为“BSTree<K,V>”
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(12,2):
+      转换要求第二个用户定义的转换运算符或构造函数
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\BSTree.h(79,7):
+      参见“BSTree<K,V>::Inorder”的声明
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(12,4):
+      尝试匹配参数列表“()”时
+  
+C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(13,12): error C2662: “BSTreeNode<K,V> *BSTree<K,V>::Find(const K &)”: 不能将“this”指针从“BSTree”转换为“BSTree<K,V> &”
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(13,10):
+      原因如下: 无法从“BSTree”转换为“BSTree<K,V>”
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(13,10):
+      转换要求第二个用户定义的转换运算符或构造函数
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\BSTree.h(84,8):
+      参见“BSTree<K,V>::Find”的声明
+      C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(13,12):
+      尝试匹配参数列表“(int)”时
+  
+C:\Users\Redmi\Desktop\C++学习\BSTree\BSTree\test.cpp(13,7): error C2088: 内置运算符“<<”无法应用于类型为“std::ostream”的操作数
