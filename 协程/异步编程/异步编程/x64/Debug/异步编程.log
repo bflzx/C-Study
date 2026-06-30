@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Redmi\Desktop\C++ Study\协程\异步编程\异步编程\main.cpp(102,20): warning C4858: 正在放弃返回值: This temporary 'std::thread' is not joined or detached, so 'std::terminate' will be called at the end of the statement.
+  异步编程.vcxproj -> C:\Users\Redmi\Desktop\C++ Study\协程\异步编程\x64\Debug\异步编程.exe
