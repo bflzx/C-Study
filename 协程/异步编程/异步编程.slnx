@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="异步编程/异步编程.vcxproj" />
+  <Project Path="异步编程/异步编程.vcxproj" Id="9cd330cc-0129-4556-9690-5676e6c34b46" />
 </Solution>
