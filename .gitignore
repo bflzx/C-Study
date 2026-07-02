@@ -1,0 +1,14 @@
+# VS 缓存目录
+.vs/
+*.ipch
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# C++ 编译产物
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
